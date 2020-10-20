@@ -1,0 +1,81 @@
+
+.navbar .navbar-nav .nav-link:not(.btn) i.fa{
+      font-size: 18px;
+      position: relative;
+      top: 3px;
+      text-align: center;
+      width: 21px;
+}
+
+.navbar-brand{
+  letter-spacing: 3px;
+  font-size:15px 
+  color: #556B2F;
+
+}
+
+.h1-seo, .centre-text, .navbar-brand, .aboutme{
+  font-family: 'Krona One';
+}
+
+h1{
+  letter-spacing: 2px;
+}
+
+h2{
+  margin-top: 10px;
+}
+
+.aboutme {
+  -webkit-transition-duration: 0.4s; /
+  transition-duration: 0.4s;
+  background-color: transparent;
+  color: black;
+  border: 2px solid #556B2F; 
+  color: white;
+}
+
+.aboutme:hover {
+  background-color: #556B2F;
+  color: black;
+}
+
+.learn{
+  background-color: #556B2F;
+  color: white;
+  transition: 0.5s;
+  font-size: 18px;
+  box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.learn:hover{
+  background-color: #556B2F;
+  color: white;
+  opacity: 0.6;
+}
+
+.learn:active{
+  background-color: #556B2F;
+  color: white;
+  opacity: 0.6;
+}
+
+#scripture{
+  background: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Josefin Sans';
+  color: #000;
+}
+
+#scripture p.verse{
+  font-size: 20px;
+  color:  #556B2F;
+}
+
+.blog-left, .blog-right{
+  font-family: 'Krona One', sans-serif;
+font-family: 'Piazzolla', serif;
+}
